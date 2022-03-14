@@ -1,0 +1,25 @@
+.container {
+	margin: 0 auto;
+	max-width: 900px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.list-inline {
+	list-style: none;
+	text-align: right;
+	margin: 0px;
+	padding-top: 8px;
+}
+
+.list-inline li {
+	display: inline-block;
+	color: #CCD1E4;
+	padding: 4px;
+}
+
+.blue-color {
+	color: #5C7AEA;
+}

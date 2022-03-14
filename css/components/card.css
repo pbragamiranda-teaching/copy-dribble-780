@@ -1,0 +1,28 @@
+.card-white {
+	width: 250px;
+	background-color: white;
+	padding: 8px;
+}
+
+.card-image {
+	height: 150px;
+	background-size: cover;
+}
+.card-image .btn {
+	opacity: 0;
+	transition: .3s;
+}
+
+.card-image:hover .btn {
+	opacity: 1;
+}
+
+.card-user {
+	display:  flex;
+	align-items: center;
+}
+
+.cards {
+	display: flex;
+	justify-content: space-between;
+}
